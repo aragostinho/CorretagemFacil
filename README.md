@@ -1,2 +1,2 @@
 # CorretagemFacil
-.Net Core SDK para o sistem Multicálculo Corretagem Facil 
+.Net Core SDK para o sistema Multicálculo Corretagem Facil 
